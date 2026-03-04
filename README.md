@@ -1,10 +1,11 @@
 <div align="center"><img src="https://github.com/user-attachments/assets/9f00391c-f360-49b3-809a-8d53c5a0731f" width="100%" height="300px" style="object-fit:cover;" alt="Banner"/>
 
 
-# Merhaba, ben [Musa Emre Delen] 👋
+# Merhaba, ben Musa Emre Delen 👋
 ### 🎓 Bilgisayar Mühendisliği Son Sınıf | 🔬 i-Lab Researcher | 🤖 AI & Backend Geliştirici
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;Backend+Developer+%F0%9F%9A%80;Researcher+%F0%9F%94%AC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Researcher+%F0%9F%94%AC" alt="Typing SVG" />
+</div>
 </div>
 
 </div>
