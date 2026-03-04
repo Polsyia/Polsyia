@@ -105,7 +105,7 @@ ilgi_alanlari = {
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=KULLANICI_ADIN&color=00d9ff&style=flat-square&label=Profil+Görüntülenme)
 
-*"Veri konuşur, model öğrenir, kod çalışır — gerisini zaman gösterir."* ✨
+*"Dream big. Start small. Act now.""* ✨
 
 </div>
 
