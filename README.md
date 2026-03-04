@@ -3,7 +3,8 @@
 # Merhaba, ben [Musa Emre Delen] 👋
 ### 🎓 Bilgisayar Mühendisliği Son Sınıf | 🔬 i-Lab Researcher | 🤖 AI & Backend Geliştirici
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A7%A0;Sa%C4%9Fl%C4%B1kta+Yapay+Zeka+Araflt%C4%B1rmac%C4%B1s%C4%B1+%F0%9F%A9%BA;Veri+%C3%9Czerinden+D%C3%BCnya+De%C4%9Fi%C5%9Ftiriyorum+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;Backend+Developer+%F0%9F%9A%80;Researcher+%F0%9F%94%AC" alt="Typing SVG" />
+</div>
 
 </div>
 
