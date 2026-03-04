@@ -1,4 +1,5 @@
-<div align="center">
+<div align="center"><img src="https://github.com/user-attachments/assets/9f00391c-f360-49b3-809a-8d53c5a0731f" width="100%" alt="Banner"/>
+
 
 # Merhaba, ben [Musa Emre Delen] 👋
 ### 🎓 Bilgisayar Mühendisliği Son Sınıf | 🔬 i-Lab Researcher | 🤖 AI & Backend Geliştirici
