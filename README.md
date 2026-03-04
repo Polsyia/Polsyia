@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/user-attachments/assets/9f00391c-f360-49b3-809a-8d53c5a0731f" width="100%" alt="Banner"/>
+<div align="center"><img src="https://github.com/user-attachments/assets/9f00391c-f360-49b3-809a-8d53c5a0731f" width="100%" height="180px" style="object-fit:cover;" alt="Banner"/>
 
 
 # Merhaba, ben [Musa Emre Delen] 👋
