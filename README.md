@@ -6,14 +6,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Researcher+%F0%9F%94%AC" alt="Typing SVG" />
 </div>
-</div>
-
-</div>
 
 ---
 
 ## 👋 Merhaba, Musa Emre Delen!
-
 
 Ben bir **Bilgisayar Mühendisliği son sınıf öğrencisiyim**; **Full Stack geliştirme** ve **Yapay Zeka** alanlarında kendimi geliştiriyorum. Projelerimin akademik ve sanayiye yönelik olmasını seviyorum — teoriden gerçek dünya çözümlerine uzanan bir yol olması her zaman benim için öncelik oluyor.
 
@@ -77,14 +73,14 @@ ilgi_alanlari = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Polsyia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polsyia&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KULLANICI_ADIN&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Polsyia&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -104,25 +100,8 @@ ilgi_alanlari = {
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=KULLANICI_ADIN&color=00d9ff&style=flat-square&label=Profil+Görüntülenme)
+![Visitor Count](https://komarev.com/ghpvc/?username=Polsyia&color=00d9ff&style=flat-square&label=Profil+Görüntülenme)
 
-*"Dream big. Start small. Act now.""* ✨
+*"Dream big. Start small. Act now."* ✨
 
 </div>
-
-
-
-<!--
-**Polsyia/Polsyia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
