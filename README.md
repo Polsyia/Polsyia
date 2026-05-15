@@ -11,7 +11,7 @@
 
 ## 👋 Merhaba, Musa Emre Delen!
 
-Ben bir **Bilgisayar Mühendisliği son sınıf öğrencisiyim**; **Full Stack geliştirme** ve **Yapay Zeka** alanlarında kendimi geliştiriyorum. Projelerimin akademik ve sanayiye yönelik olmasını seviyorum — teoriden gerçek dünya çözümlerine uzanan bir yol olması her zaman benim için öncelik oluyor.
+Ben  **Bilgisayar Mühendisliği son sınıf öğrencisiyim**; **Full Stack geliştirme** ve **Yapay Zeka** alanlarında kendimi geliştiriyorum. Projelerimin akademik ve sanayiye yönelik olmasını seviyorum — teoriden gerçek dünya çözümlerine uzanan bir yol olması her zaman benim için öncelik oluyor.
 
 Şu an **iLab'de aktif olarak Araştırmacı** olarak görev yapıyorum. Burada yapay zekayı sağlıkla ve tıbbi cihazlarla birleştirerek hem **yazılım** hem de **IoT** cephesinde projeler yürütüyoruz.
 
