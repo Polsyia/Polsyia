@@ -93,14 +93,7 @@ flowchart LR
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Polsyia&show_icons=true&hide_border=true&include_all_commits=true&bg_color=00000000&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Polsyia&show_icons=true&hide_border=true&include_all_commits=true&bg_color=00000000&title_color=1D4ED8&icon_color=1D4ED8&text_color=1F2328" alt="GitHub stats for Polsyia" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Polsyia&hide_border=true&background=00000000&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Polsyia&hide_border=true&background=00000000&ring=1D4ED8&fire=1D4ED8&currStreakLabel=1D4ED8&currStreakNum=1F2328&sideNums=1F2328&sideLabels=1F2328&dates=59636E&stroke=D0D7DE" alt="GitHub contribution streak for Polsyia" />
-</picture>
+<img src="https://raw.githubusercontent.com/Polsyia/Polsyia/output/stats.svg" width="100%" alt="GitHub activity over the last 12 months: contributions, active days and streaks"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Polsyia/Polsyia/output/github-snake-dark.svg" />
