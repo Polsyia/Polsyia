@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="Musa Emre Delen: Turkish clinical NLP, medical AI, frontend"/>
 
-**Computer Engineer** · **AI Researcher @ i-LAB, İstinye University** · **Frontend Developer @ Pievision**
+**Computer Engineer** · **AI Researcher @ i-LAB** · **Frontend Developer @ Pievision**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=640&lines=Turkish+clinical+NLP+for+breast+cancer;Training+domain-specific+language+models;LLM+%26+RAG+for+clinical+decision+support;Building+production+UIs+with+React+%26+Next.js" />
@@ -18,7 +18,7 @@
 
 ## About me
 
-I'm a Computer Engineering graduate working where **AI meets healthcare**. At **i-LAB (İstinye University)** I'm building a **Turkish clinical NLP for breast cancer**: domain-specific language models that read pathology, radiology and anamnesis reports and power a clinical decision support system. English clinical NLP is a mature field with dedicated biomedical models; Turkish has no equivalent for breast cancer reports yet, and that's the gap we're filling.
+I'm a Computer Engineering graduate working where **AI meets healthcare**. At **i-LAB** I'm building a **Turkish clinical NLP for breast cancer**: domain-specific language models that read pathology, radiology and anamnesis reports and power a clinical decision support system. English clinical NLP is a mature field with dedicated biomedical models; Turkish has no equivalent for breast cancer reports yet, and that's the gap we're filling.
 
 Alongside research, I work as a **Frontend Developer at Pievision**, building an e-commerce and warehouse management admin panel with Next.js and TypeScript. Shipping production software every day keeps my research grounded: I care about systems that clinicians can actually use, not just models that score well.
 
