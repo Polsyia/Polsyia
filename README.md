@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/9f00391c-f360-49b3-809a-8d53c5a0731f" width="100%" alt="Banner"/>
-
-# Hi, I'm Musa Emre Delen
+<img src="assets/banner.svg" width="100%" alt="Musa Emre Delen: Turkish clinical NLP, medical AI, frontend"/>
 
 **Computer Engineer** · **AI Researcher @ i-LAB, İstinye University** · **Frontend Developer @ Pievision**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0D9488&center=true&vCenter=true&width=640&lines=Turkish+clinical+NLP+for+breast+cancer;Training+domain-specific+language+models;LLM+%26+RAG+for+clinical+decision+support;Building+production+UIs+with+React+%26+Next.js" alt="Turkish clinical NLP for breast cancer · Domain-specific language models · LLM & RAG for clinical decision support · Production UIs with React & Next.js" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=640&lines=Turkish+clinical+NLP+for+breast+cancer;Training+domain-specific+language+models;LLM+%26+RAG+for+clinical+decision+support;Building+production+UIs+with+React+%26+Next.js" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=1D4ED8&center=true&vCenter=true&width=640&lines=Turkish+clinical+NLP+for+breast+cancer;Training+domain-specific+language+models;LLM+%26+RAG+for+clinical+decision+support;Building+production+UIs+with+React+%26+Next.js" alt="Turkish clinical NLP for breast cancer · Domain-specific language models · LLM & RAG for clinical decision support · Production UIs with React & Next.js" />
+</picture>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/musaemredelen)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:musadelen46@gmail.com)
@@ -35,6 +36,10 @@ Alongside research, I work as a **Frontend Developer at Pievision**, building an
 *i-LAB, İstinye University* · *ongoing, paper in preparation*
 
 Breast cancer care runs on free-text reports: pathology, radiology and anamnesis notes, full of abbreviations, Latin terms and negations. English has a mature ecosystem of clinical and biomedical language models for this kind of text; **Turkish has no equivalent for breast cancer reports**. CDSSAI fills that gap with **domain-specific Turkish language models trained on breast cancer reports**, and uses them as the foundation of a clinical decision support system.
+
+<p align="center">
+  <img src="assets/ner-demo.svg" width="100%" alt="Animated demo: a synthetic Turkish pathology sentence is tagged by the NER model and turned into structured breast cancer findings"/>
+</p>
 
 **What the NLP extracts**
 
@@ -71,32 +76,18 @@ flowchart LR
 
 ## Tech stack
 
-**AI / ML**<br/>
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,django,nodejs,mysql,cpp&perline=8" alt="Python, PyTorch, TensorFlow, scikit-learn, Django, Node.js, MySQL, C++"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,git,docker,linux,vscode&perline=8" alt="React, Next.js, TypeScript, Tailwind CSS, Git, Docker, Linux, VS Code"/>
+</p>
 
-**Frontend**<br/>
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-
-**Backend & data**<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Tools**<br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query"/>
+</p>
 
 ---
 
@@ -105,12 +96,17 @@ flowchart LR
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Polsyia&show_icons=true&hide_border=true&include_all_commits=true&bg_color=00000000&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Polsyia&show_icons=true&hide_border=true&include_all_commits=true&bg_color=00000000&title_color=0D9488&icon_color=0D9488&text_color=1F2328" alt="GitHub stats for Polsyia" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Polsyia&show_icons=true&hide_border=true&include_all_commits=true&bg_color=00000000&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Polsyia&show_icons=true&hide_border=true&include_all_commits=true&bg_color=00000000&title_color=1D4ED8&icon_color=1D4ED8&text_color=1F2328" alt="GitHub stats for Polsyia" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Polsyia&hide_border=true&background=00000000&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Polsyia&hide_border=true&background=00000000&ring=0D9488&fire=0D9488&currStreakLabel=0D9488&currStreakNum=1F2328&sideNums=1F2328&sideLabels=1F2328&dates=59636E&stroke=D0D7DE" alt="GitHub contribution streak for Polsyia" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Polsyia&hide_border=true&background=00000000&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Polsyia&hide_border=true&background=00000000&ring=1D4ED8&fire=1D4ED8&currStreakLabel=1D4ED8&currStreakNum=1F2328&sideNums=1F2328&sideLabels=1F2328&dates=59636E&stroke=D0D7DE" alt="GitHub contribution streak for Polsyia" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Polsyia/Polsyia/output/github-snake-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/Polsyia/Polsyia/output/github-snake.svg" alt="Snake animation eating the contribution graph" />
 </picture>
 
 </div>
@@ -119,8 +115,10 @@ flowchart LR
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Polsyia&color=0d9488&style=flat-square&label=Profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=Polsyia&color=1d4ed8&style=flat-square&label=Profile+views)
 
 *"Dream big. Start small. Act now."*
 
 </div>
+
+<img src="assets/footer.svg" width="100%" alt=""/>
