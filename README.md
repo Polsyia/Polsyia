@@ -33,8 +33,6 @@ Alongside research, I work as a **Frontend Developer at Pievision**, building an
 
 ## Featured research: CDSSAI, a Turkish clinical NLP for breast cancer
 
-*i-LAB, İstinye University* · *ongoing, paper in preparation*
-
 Breast cancer care runs on free-text reports: pathology, radiology and anamnesis notes, full of abbreviations, Latin terms and negations. English has a mature ecosystem of clinical and biomedical language models for this kind of text; **Turkish has no equivalent for breast cancer reports**. CDSSAI fills that gap with **domain-specific Turkish language models trained on breast cancer reports**, and uses them as the foundation of a clinical decision support system.
 
 <p align="center">
