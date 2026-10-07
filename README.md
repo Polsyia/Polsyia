@@ -93,7 +93,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Polsyia/Polsyia/output/stats.svg" width="100%" alt="GitHub activity over the last 12 months: contributions, active days and streaks"/>
+<img src="https://raw.githubusercontent.com/Polsyia/Polsyia/output/ecg.svg" width="100%" alt="GitHub activity drawn as a heart monitor: one heartbeat per day for the last six weeks, with weekly contributions, streaks and the 12-month total"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Polsyia/Polsyia/output/github-snake-dark.svg" />

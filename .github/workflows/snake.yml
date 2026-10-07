@@ -18,8 +18,8 @@ jobs:
       - uses: actions/checkout@v4
 
       # before snk: its Docker container creates dist/ as root
-      - name: Render activity card
-        run: python3 scripts/stats.py ${{ github.repository_owner }} dist/stats.svg
+      - name: Render heart-monitor activity card
+        run: python3 scripts/ecg.py ${{ github.repository_owner }} dist/ecg.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
